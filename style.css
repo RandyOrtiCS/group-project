@@ -40,3 +40,15 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+.fabestyle {
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    border-radius: 8px;
+    padding: 1.3rem;
+}
+#location{
+    color: black;
+}
